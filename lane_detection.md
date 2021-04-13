@@ -265,24 +265,18 @@ end
 ```
 
 
-![/Users/carlopeluso/Desktop/lane_detection_images/figure_0.png
-](lane_detection_images//Users/carlopeluso/Desktop/lane_detection_images/figure_0.png
+![](lane_detection_images/figure_0.png)
+
+
+![](lane_detection_images/figure_1.png
 )
 
 
-![/Users/carlopeluso/Desktop/lane_detection_images/figure_1.png
-](lane_detection_images//Users/carlopeluso/Desktop/lane_detection_images/figure_1.png
+![](lane_detection_images/figure_2.png
 )
 
 
-![/Users/carlopeluso/Desktop/lane_detection_images/figure_2.png
-](lane_detection_images//Users/carlopeluso/Desktop/lane_detection_images/figure_2.png
-)
-
-
-![/Users/carlopeluso/Desktop/lane_detection_images/figure_3.png
-](lane_detection_images//Users/carlopeluso/Desktop/lane_detection_images/figure_3.png
-)
+![](lane_detection_images/figure_3.png)
 
 ## Functions
 ### Custom functions
